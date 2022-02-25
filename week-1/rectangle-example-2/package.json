@@ -1,0 +1,10 @@
+{
+  "name": "rectangle-example-2",
+  "version": "1.0.0",
+  "description": "calculating area of rectangle with simple example of callbacks, closures, and error handling",
+  "main": "rectcal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node rectcal.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "double-example-1",
+  "version": "1.0.0",
+  "description": "basic import / export using cjs w/ some shorthand, I added some process.argv to make it more interesting (arg uses shell in package.json)",
+  "main": "double.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"double": "node runDouble.js $1"
+  }
+}
