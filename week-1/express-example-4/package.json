@@ -1,0 +1,36 @@
+{
+	"dependencies": {
+		"express": "^4.17.3"
+	},
+	"name": "express-example-4",
+	"version": "1.0.0",
+	"description": "A quick walkthrough of the features of expressjs",
+	"main": "server.js",
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/averyfreeman/nodejs-studies.git"
+	},
+	"keywords": [
+		"nucamp",
+		"node",
+		"nodejs",
+		"bootcamp",
+		"rest",
+		"backend",
+		"http",
+		"server",
+		"express",
+		"expressjs"
+	],
+	"author": "averyfreeman",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/averyfreeman/nodejs-studies/issues"
+	},
+	"homepage": "https://github.com/averyfreeman/nodejs-studies#readme"
+}
