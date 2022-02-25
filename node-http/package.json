@@ -1,0 +1,13 @@
+{
+	"name": "node-http",
+	"version": "1.0.0",
+	"description": "a hand-made node http server",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server"
+	},
+	"keywords": [],
+	"author": "averyfreeman",
+	"license": "ISC"
+}
