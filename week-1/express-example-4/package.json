@@ -1,12 +1,12 @@
 {
 	"dependencies": {
-		"express": "^4.17.3"
+		"express": "^4.17.3",
+		"morgan": "^1.10.0"
 	},
 	"name": "express-example-4",
 	"version": "1.0.0",
 	"description": "A quick walkthrough of the features of expressjs",
 	"main": "server.js",
-	"devDependencies": {},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "nodemon server.js"
