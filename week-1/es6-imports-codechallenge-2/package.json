@@ -1,0 +1,11 @@
+{
+	"name": "es6 rectangle: codechallenge 2",
+	"version": "1.0.0",
+	"type": "module",
+	"description": "calculating area of rectangle with simple example of callbacks, closures, and error handling",
+  "main": "rectCal.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node rectCal.js"
+	}
+}

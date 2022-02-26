@@ -1,1 +1,1 @@
-study material for backend design for a bootcamp
+study material for backend design in a bootcamp
